@@ -5,6 +5,7 @@ This polyglot works in:
 * <nowiki> ><>
 * 05AB1E
 * 99
+* Asciidots
 * brainfuck
 * Befunge (96)
 * Emoji
