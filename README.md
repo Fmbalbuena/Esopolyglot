@@ -8,6 +8,7 @@ This polyglot works in:
 * Asciidots
 * brainfuck
 * Befunge (96)
+* Cubix
 * Emoji
 * Emoji-gramming
 * EmojiCoder
