@@ -15,3 +15,4 @@ This polyglot works in:
 * emotifuck
 * Spoon
 * Whitespace
+* Vyxal
